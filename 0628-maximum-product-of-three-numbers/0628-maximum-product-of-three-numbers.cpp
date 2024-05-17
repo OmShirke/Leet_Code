@@ -9,7 +9,6 @@ public:
             mul *= nums[n];
             n--;
         }
-        
         return max(mul,res);
     }
 };
