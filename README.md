@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
+| [1293-three-consecutive-odds](https://github.com/OmShirke/Leet_Code/tree/master/1293-three-consecutive-odds) |
 ## Math
 |  |
 | ------- |
