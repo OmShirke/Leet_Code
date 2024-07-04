@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/OmShirke/Leet_Code/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmShirke/Leet_Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3324-split-the-array](https://github.com/OmShirke/Leet_Code/tree/master/3324-split-the-array) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3324-split-the-array](https://github.com/OmShirke/Leet_Code/tree/master/3324-split-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmShirke/Leet_Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Counting
+|  |
+| ------- |
+| [3324-split-the-array](https://github.com/OmShirke/Leet_Code/tree/master/3324-split-the-array) |
 <!---LeetCode Topics End-->
