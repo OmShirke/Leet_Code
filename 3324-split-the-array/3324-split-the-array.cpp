@@ -1,13 +1,12 @@
 class Solution {
 public:
     bool isPossibleToSplit(vector<int>& nums) {
-        int n=nums.size();
-        sort(nums.begin(),nums.end());
-        if(n%2!=0){
-            return false;
+        unordered_map<int,int> count;
+        for(int a:nums){
+            count[a]++;
         }
-        for(int i=0;i<n-2;i++){
-            if(nums[i]==nums[i+1] && nums[i]==nums[i+2]){
+        for(auto& pair:count){
+            if(pair.second>2){
                 return false;
             }
         }
