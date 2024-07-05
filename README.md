@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3324-split-the-array](https://github.com/OmShirke/Leet_Code/tree/master/3324-split-the-array) |
+## Linked List
+|  |
+| ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmShirke/Leet_Code/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
