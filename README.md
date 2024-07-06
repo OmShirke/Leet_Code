@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
+| [2645-pass-the-pillow](https://github.com/OmShirke/Leet_Code/tree/master/2645-pass-the-pillow) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmShirke/Leet_Code/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/OmShirke/Leet_Code/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
