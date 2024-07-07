@@ -1,13 +1,13 @@
 class Solution {
 public:
     int numWaterBottles(int numBottles, int numExchange) {
-        int totalDrank = numBottles;
+        int total = numBottles;
         int emptyBottles = numBottles;
         while (emptyBottles >= numExchange) {
-            int newBottles = emptyBottles / numExchange;
-            totalDrank += newBottles;
-            emptyBottles = emptyBottles % numExchange + newBottles;
+            int newb = emptyBottles / numExchange;
+            total += newb;
+            emptyBottles = emptyBottles % numExchange + newb;
         }
-        return totalDrank;
+        return total;
     }
 };
