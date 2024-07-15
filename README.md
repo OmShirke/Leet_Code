@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/OmShirke/Leet_Code/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmShirke/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmShirke/Leet_Code/tree/master/2306-create-binary-tree-from-descriptions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
