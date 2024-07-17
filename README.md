@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/OmShirke/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/OmShirke/Leet_Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmShirke/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/OmShirke/Leet_Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmShirke/Leet_Code/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmShirke/Leet_Code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmShirke/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/OmShirke/Leet_Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/OmShirke/Leet_Code/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmShirke/Leet_Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/OmShirke/Leet_Code/tree/master/1720-crawler-log-folder) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/OmShirke/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/OmShirke/Leet_Code/tree/master/0726-number-of-atoms) |
+| [1207-delete-nodes-and-return-forest](https://github.com/OmShirke/Leet_Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmShirke/Leet_Code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3324-split-the-array](https://github.com/OmShirke/Leet_Code/tree/master/3324-split-the-array) |
 ## Binary Search
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/OmShirke/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/OmShirke/Leet_Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmShirke/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/OmShirke/Leet_Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmShirke/Leet_Code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmShirke/Leet_Code/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/OmShirke/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/OmShirke/Leet_Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmShirke/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/OmShirke/Leet_Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmShirke/Leet_Code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmShirke/Leet_Code/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
