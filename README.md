@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmShirke/Leet_Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/OmShirke/Leet_Code/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/OmShirke/Leet_Code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmShirke/Leet_Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/OmShirke/Leet_Code/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/OmShirke/Leet_Code/tree/master/1803-average-waiting-time) |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/OmShirke/Leet_Code/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
