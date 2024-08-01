@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmShirke/Leet_Code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/OmShirke/Leet_Code/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/OmShirke/Leet_Code/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/OmShirke/Leet_Code/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/OmShirke/Leet_Code/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/OmShirke/Leet_Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3324-split-the-array](https://github.com/OmShirke/Leet_Code/tree/master/3324-split-the-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/OmShirke/Leet_Code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/OmShirke/Leet_Code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/OmShirke/Leet_Code/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/OmShirke/Leet_Code/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/OmShirke/Leet_Code/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
