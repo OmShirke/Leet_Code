@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/OmShirke/Leet_Code/tree/master/1039-find-the-town-judge) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmShirke/Leet_Code/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmShirke/Leet_Code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/OmShirke/Leet_Code/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/OmShirke/Leet_Code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/OmShirke/Leet_Code/tree/master/0948-sort-an-array) |
+| [1039-find-the-town-judge](https://github.com/OmShirke/Leet_Code/tree/master/1039-find-the-town-judge) |
 | [1196-filling-bookcase-shelves](https://github.com/OmShirke/Leet_Code/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmShirke/Leet_Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/OmShirke/Leet_Code/tree/master/1293-three-consecutive-odds) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/OmShirke/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/OmShirke/Leet_Code/tree/master/0726-number-of-atoms) |
+| [1039-find-the-town-judge](https://github.com/OmShirke/Leet_Code/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmShirke/Leet_Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/OmShirke/Leet_Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmShirke/Leet_Code/tree/master/2306-create-binary-tree-from-descriptions) |
