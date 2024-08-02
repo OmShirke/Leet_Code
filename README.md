@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmShirke/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/OmShirke/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmShirke/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmShirke/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/OmShirke/Leet_Code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/OmShirke/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmShirke/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Union Find
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmShirke/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmShirke/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
