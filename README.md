@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmShirke/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/OmShirke/Leet_Code/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/OmShirke/Leet_Code/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OmShirke/Leet_Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmShirke/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/OmShirke/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/OmShirke/Leet_Code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmShirke/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmShirke/Leet_Code/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/OmShirke/Leet_Code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/OmShirke/Leet_Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmShirke/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/OmShirke/Leet_Code/tree/master/1196-filling-bookcase-shelves) |
