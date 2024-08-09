@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/OmShirke/Leet_Code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/OmShirke/Leet_Code/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/OmShirke/Leet_Code/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/OmShirke/Leet_Code/tree/master/1039-find-the-town-judge) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmShirke/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/OmShirke/Leet_Code/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/OmShirke/Leet_Code/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmShirke/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/OmShirke/Leet_Code/tree/master/2645-pass-the-pillow) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/OmShirke/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/OmShirke/Leet_Code/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [1039-find-the-town-judge](https://github.com/OmShirke/Leet_Code/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmShirke/Leet_Code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmShirke/Leet_Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/OmShirke/Leet_Code/tree/master/0036-valid-sudoku) |
+| [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/OmShirke/Leet_Code/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/OmShirke/Leet_Code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/OmShirke/Leet_Code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
