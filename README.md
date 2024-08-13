@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmShirke/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/OmShirke/Leet_Code/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/OmShirke/Leet_Code/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/OmShirke/Leet_Code/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OmShirke/Leet_Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmShirke/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -323,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/OmShirke/Leet_Code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/OmShirke/Leet_Code/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
