@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmShirke/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmShirke/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/OmShirke/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/OmShirke/Leet_Code/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/OmShirke/Leet_Code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmShirke/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmShirke/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/OmShirke/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmShirke/Leet_Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/OmShirke/Leet_Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/OmShirke/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [1240-stone-game-ii](https://github.com/OmShirke/Leet_Code/tree/master/1240-stone-game-ii) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/OmShirke/Leet_Code/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Strongly Connected Component
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/OmShirke/Leet_Code/tree/master/0476-number-complement) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/OmShirke/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
