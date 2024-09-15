@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/OmShirke/Leet_Code/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/OmShirke/Leet_Code/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/OmShirke/Leet_Code/tree/master/1207-delete-nodes-and-return-forest) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmShirke/Leet_Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/OmShirke/Leet_Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/OmShirke/Leet_Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmShirke/Leet_Code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/OmShirke/Leet_Code/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/OmShirke/Leet_Code/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmShirke/Leet_Code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmShirke/Leet_Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1720-crawler-log-folder](https://github.com/OmShirke/Leet_Code/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/OmShirke/Leet_Code/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmShirke/Leet_Code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/OmShirke/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [1240-stone-game-ii](https://github.com/OmShirke/Leet_Code/tree/master/1240-stone-game-ii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmShirke/Leet_Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/OmShirke/Leet_Code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/OmShirke/Leet_Code/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 ## Strongly Connected Component
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/OmShirke/Leet_Code/tree/master/0476-number-complement) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmShirke/Leet_Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmShirke/Leet_Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/OmShirke/Leet_Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
