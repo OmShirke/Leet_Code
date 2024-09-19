@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmShirke/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/OmShirke/Leet_Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/OmShirke/Leet_Code/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/OmShirke/Leet_Code/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/OmShirke/Leet_Code/tree/master/0380-insert-delete-getrandom-o1) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/OmShirke/Leet_Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/OmShirke/Leet_Code/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmShirke/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/OmShirke/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/OmShirke/Leet_Code/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/OmShirke/Leet_Code/tree/master/0205-isomorphic-strings) |
+| [0241-different-ways-to-add-parentheses](https://github.com/OmShirke/Leet_Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/OmShirke/Leet_Code/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/OmShirke/Leet_Code/tree/master/0383-ransom-note) |
 | [0539-minimum-time-difference](https://github.com/OmShirke/Leet_Code/tree/master/0539-minimum-time-difference) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/OmShirke/Leet_Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmShirke/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/OmShirke/Leet_Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/OmShirke/Leet_Code/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/OmShirke/Leet_Code/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/OmShirke/Leet_Code/tree/master/0664-strange-printer) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/OmShirke/Leet_Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Matrix
 |  |
 | ------- |
