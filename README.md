@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmShirke/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/OmShirke/Leet_Code/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmShirke/Leet_Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/OmShirke/Leet_Code/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/OmShirke/Leet_Code/tree/master/0273-integer-to-english-words) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/OmShirke/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmShirke/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/OmShirke/Leet_Code/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmShirke/Leet_Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/OmShirke/Leet_Code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/OmShirke/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/OmShirke/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/OmShirke/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/OmShirke/Leet_Code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/OmShirke/Leet_Code/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/OmShirke/Leet_Code/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
