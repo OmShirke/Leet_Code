@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/OmShirke/Leet_Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/OmShirke/Leet_Code/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/OmShirke/Leet_Code/tree/master/0792-binary-search) |
+| [0859-design-circular-deque](https://github.com/OmShirke/Leet_Code/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/OmShirke/Leet_Code/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/OmShirke/Leet_Code/tree/master/0906-walking-robot-simulation) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/OmShirke/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0859-design-circular-deque](https://github.com/OmShirke/Leet_Code/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmShirke/Leet_Code/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/OmShirke/Leet_Code/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2411-spiral-matrix-iv](https://github.com/OmShirke/Leet_Code/tree/master/2411-spiral-matrix-iv) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/OmShirke/Leet_Code/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmShirke/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/OmShirke/Leet_Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/OmShirke/Leet_Code/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/OmShirke/Leet_Code/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/OmShirke/Leet_Code/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |
