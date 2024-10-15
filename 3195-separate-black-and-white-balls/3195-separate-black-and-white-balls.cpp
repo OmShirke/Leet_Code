@@ -4,16 +4,16 @@ public:
 
         long long count=0;
         int n=s.size();
-        int ind=INT_MAX;
-        bool idk=false;
+        int ind=-1;
+        bool zeroFound=false;
 
         for(int i=n-1;i>=0;i--){
             
-            if(s[i]=='0' && ind==INT_MAX){
+            if(s[i]=='0' && ind==-1){
                 ind=i;
-                idk=true;
+                zeroFound=true;
             }
-            if(s[i]=='1' && idk){
+            if(s[i]=='1' && zeroFound){
                 count+=ind-i;
                 ind--;
             }
