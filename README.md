@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/OmShirke/Leet_Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/OmShirke/Leet_Code/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/OmShirke/Leet_Code/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmShirke/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/OmShirke/Leet_Code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/OmShirke/Leet_Code/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/OmShirke/Leet_Code/tree/master/2472-build-a-matrix-with-conditions) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OmShirke/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/OmShirke/Leet_Code/tree/master/0040-combination-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmShirke/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Game Theory
 |  |
 | ------- |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/OmShirke/Leet_Code/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmShirke/Leet_Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmShirke/Leet_Code/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmShirke/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/OmShirke/Leet_Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
@@ -584,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/OmShirke/Leet_Code/tree/master/0432-all-oone-data-structure) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmShirke/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
