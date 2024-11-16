@@ -9,10 +9,6 @@ public:
             res[0]=nums[0];
         }
 
-        if(k==1){
-            return nums;
-        }
-
 
         for (int i = 0; i <= n - k; i++) {
             bool ispower = true;
