@@ -5,10 +5,7 @@ public:
 
         vector<int> res(n - k + 1, -1);
 
-        if(n<2){
-            res[0]=nums[0];
-        }
-
+       
 
         for (int i = 0; i <= n - k; i++) {
             bool ispower = true;
