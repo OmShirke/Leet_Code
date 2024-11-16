@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/OmShirke/Leet_Code/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/OmShirke/Leet_Code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmShirke/Leet_Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/OmShirke/Leet_Code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/OmShirke/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/OmShirke/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmShirke/Leet_Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/OmShirke/Leet_Code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Number Theory
 |  |
 | ------- |
