@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/OmShirke/Leet_Code/tree/master/0100-same-tree) |
+| [0787-sliding-puzzle](https://github.com/OmShirke/Leet_Code/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/OmShirke/Leet_Code/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmShirke/Leet_Code/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmShirke/Leet_Code/tree/master/1484-linked-list-in-binary-tree) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/OmShirke/Leet_Code/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/OmShirke/Leet_Code/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/OmShirke/Leet_Code/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/OmShirke/Leet_Code/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/OmShirke/Leet_Code/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/OmShirke/Leet_Code/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/OmShirke/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/OmShirke/Leet_Code/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/OmShirke/Leet_Code/tree/master/0289-game-of-life) |
+| [0787-sliding-puzzle](https://github.com/OmShirke/Leet_Code/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/OmShirke/Leet_Code/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/OmShirke/Leet_Code/tree/master/0999-regions-cut-by-slashes) |
