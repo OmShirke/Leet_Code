@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmShirke/Leet_Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/OmShirke/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/OmShirke/Leet_Code/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/OmShirke/Leet_Code/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/OmShirke/Leet_Code/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/OmShirke/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/OmShirke/Leet_Code/tree/master/0074-search-a-2d-matrix) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OmShirke/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/OmShirke/Leet_Code/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/OmShirke/Leet_Code/tree/master/0046-permutations) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/OmShirke/Leet_Code/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/OmShirke/Leet_Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Game Theory
