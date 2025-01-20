@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/OmShirke/Leet_Code/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/OmShirke/Leet_Code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmShirke/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/OmShirke/Leet_Code/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/OmShirke/Leet_Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/OmShirke/Leet_Code/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/OmShirke/Leet_Code/tree/master/0999-regions-cut-by-slashes) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/OmShirke/Leet_Code/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/OmShirke/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/OmShirke/Leet_Code/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/OmShirke/Leet_Code/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/OmShirke/Leet_Code/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/OmShirke/Leet_Code/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/OmShirke/Leet_Code/tree/master/0624-maximum-distance-in-arrays) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/OmShirke/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/OmShirke/Leet_Code/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/OmShirke/Leet_Code/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/OmShirke/Leet_Code/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/OmShirke/Leet_Code/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/OmShirke/Leet_Code/tree/master/0921-spiral-matrix-iii) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/OmShirke/Leet_Code/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/OmShirke/Leet_Code/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmShirke/Leet_Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/OmShirke/Leet_Code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/OmShirke/Leet_Code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
