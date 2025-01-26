@@ -1,7 +1,3 @@
-// OJ: https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/
-// Author: github.com/lzl124631x
-// Time: O(N)
-// Space: O(N)
 class Solution {
 public:
     int maximumInvitations(vector<int>& A) {
