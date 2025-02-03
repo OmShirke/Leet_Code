@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/OmShirke/Leet_Code/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/OmShirke/Leet_Code/tree/master/0203-remove-linked-list-elements) |
 | [0432-all-oone-data-structure](https://github.com/OmShirke/Leet_Code/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/OmShirke/Leet_Code/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/OmShirke/Leet_Code/tree/master/1484-linked-list-in-binary-tree) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/OmShirke/Leet_Code/tree/master/0203-remove-linked-list-elements) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmShirke/Leet_Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/OmShirke/Leet_Code/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/OmShirke/Leet_Code/tree/master/1197-parsing-a-boolean-expression) |
