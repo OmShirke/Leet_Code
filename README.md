@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/OmShirke/Leet_Code/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/OmShirke/Leet_Code/tree/master/1240-stone-game-ii) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/OmShirke/Leet_Code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmShirke/Leet_Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/OmShirke/Leet_Code/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/OmShirke/Leet_Code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
