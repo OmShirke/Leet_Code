@@ -8,9 +8,7 @@ public:
 
         while (current->next != nullptr) {
             if (numap.find(current->next->val) !=numap.end()) {
-                ListNode* temp = current->next;
                 current->next = current->next->next;
-                delete temp;
             } else {
                 current = current->next;
             }
