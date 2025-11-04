@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/OmShirke/Leet_Code/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/OmShirke/Leet_Code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmShirke/Leet_Code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/OmShirke/Leet_Code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OmShirke/Leet_Code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/OmShirke/Leet_Code/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/OmShirke/Leet_Code/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmShirke/Leet_Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/OmShirke/Leet_Code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/OmShirke/Leet_Code/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/OmShirke/Leet_Code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/OmShirke/Leet_Code/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/OmShirke/Leet_Code/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/OmShirke/Leet_Code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/OmShirke/Leet_Code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1020,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/OmShirke/Leet_Code/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/OmShirke/Leet_Code/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/OmShirke/Leet_Code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/OmShirke/Leet_Code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Number Theory
 |  |
 | ------- |
