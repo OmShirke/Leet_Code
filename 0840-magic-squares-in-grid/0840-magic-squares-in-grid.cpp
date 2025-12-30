@@ -1,16 +1,14 @@
 class Solution {
 public:
     bool ismagic(vector<vector<int>>& grid, int i, int j) {
-        vector<int> val;
+        unordered_map<int,int> mp;
         for (int x = i; x < i + 3; x++) {
             for (int y = j; y < j + 3; y++) {
-                val.push_back(grid[x][y]);
-            }
-        }
-        sort(val.begin(), val.end());
-        for (int i = 0; i < 9; i++) {
-            if (val[i] != i + 1) {
-                return false;
+
+                mp[grid[x][y]]++;
+                if(mp[grid[x][y]]>1 || grid[x][y]>9 || grid[x][y]<1){
+                    return false;
+                }
             }
         }
         return (
