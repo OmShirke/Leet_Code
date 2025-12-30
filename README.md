@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/OmShirke/Leet_Code/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/OmShirke/Leet_Code/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/OmShirke/Leet_Code/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/OmShirke/Leet_Code/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/OmShirke/Leet_Code/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/OmShirke/Leet_Code/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmShirke/Leet_Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/OmShirke/Leet_Code/tree/master/0650-2-keys-keyboard) |
+| [0840-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/OmShirke/Leet_Code/tree/master/1240-stone-game-ii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/OmShirke/Leet_Code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/OmShirke/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/OmShirke/Leet_Code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/OmShirke/Leet_Code/tree/master/0726-number-of-atoms) |
+| [0840-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmShirke/Leet_Code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/OmShirke/Leet_Code/tree/master/0906-walking-robot-simulation) |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/OmShirke/Leet_Code/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/OmShirke/Leet_Code/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/OmShirke/Leet_Code/tree/master/0787-sliding-puzzle) |
+| [0840-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/OmShirke/Leet_Code/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/OmShirke/Leet_Code/tree/master/0921-spiral-matrix-iii) |
