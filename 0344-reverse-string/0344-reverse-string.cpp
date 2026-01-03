@@ -1,14 +1,18 @@
 class Solution {
 public:
+    void recursion(vector<char>& s, int left, int right){
+        if(left>=right){
+            return;
+        }
+        swap(s[left],s[right]);
+        left++;
+        right--;
+        recursion(s,left,right);
+    }
     void reverseString(vector<char>& s) {
         int n=s.size();
-        int a=n-1;
-        int i=0;
-        if(n<2){};
-        while(a>i){
-            swap(s[i],s[a]);
-            a--;
-            i++;
-        }
+        int right=n-1;
+        int left=0;
+        recursion(s,left,right);
     }
 };
