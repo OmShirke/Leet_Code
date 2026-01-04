@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/OmShirke/Leet_Code/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/OmShirke/Leet_Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/OmShirke/Leet_Code/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/OmShirke/Leet_Code/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/OmShirke/Leet_Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/OmShirke/Leet_Code/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/OmShirke/Leet_Code/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/OmShirke/Leet_Code/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/OmShirke/Leet_Code/tree/master/1240-stone-game-ii) |
+| [1390-four-divisors](https://github.com/OmShirke/Leet_Code/tree/master/1390-four-divisors) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/OmShirke/Leet_Code/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmShirke/Leet_Code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/OmShirke/Leet_Code/tree/master/1642-water-bottles) |
