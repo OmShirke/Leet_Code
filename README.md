@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/OmShirke/Leet_Code/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OmShirke/Leet_Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/OmShirke/Leet_Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/OmShirke/Leet_Code/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmShirke/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/OmShirke/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/OmShirke/Leet_Code/tree/master/0134-gas-station) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/OmShirke/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/OmShirke/Leet_Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/OmShirke/Leet_Code/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmShirke/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmShirke/Leet_Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/OmShirke/Leet_Code/tree/master/0264-ugly-number-ii) |
