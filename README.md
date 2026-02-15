@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/OmShirke/Leet_Code/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/OmShirke/Leet_Code/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/OmShirke/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmShirke/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/OmShirke/Leet_Code/tree/master/0189-rotate-array) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/OmShirke/Leet_Code/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/OmShirke/Leet_Code/tree/master/0289-game-of-life) |
 | [0592-fraction-addition-and-subtraction](https://github.com/OmShirke/Leet_Code/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/OmShirke/Leet_Code/tree/master/0906-walking-robot-simulation) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/OmShirke/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/OmShirke/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/OmShirke/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/OmShirke/Leet_Code/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/OmShirke/Leet_Code/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/OmShirke/Leet_Code/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/OmShirke/Leet_Code/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1022,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/OmShirke/Leet_Code/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/OmShirke/Leet_Code/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/OmShirke/Leet_Code/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/OmShirke/Leet_Code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmShirke/Leet_Code/tree/master/1786-count-the-number-of-consistent-strings) |
